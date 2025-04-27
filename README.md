@@ -1,9 +1,6 @@
 # Stock_Market_prediction
 
-# Stock-Price-Prediction
 Top Class Stock Price Prediction Project through Machine Learning Algorithms for Google. Easy Understanding and Implementation.
-
-### Project PPT [**LINK**](https://github.com/Vatshayan/Final-Year-Machine-Learning-Stock-Price-Prediction-Project/blob/main/Stock_price%20_prediction.pptx)
 
 ### Stock Price Prediction :
 
